@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "basic",
+    "title": "Basic Pack",
+    "price": 7.99,
+    "description": "Ideal for short-form creators or occasional users",
+    "features": [
+      "50 credits (~50 minutes of content)",
+      "Lifetime Access",
+      "Access to orignal and vertical clip formats",
+      "Download clips anytime"
+    ],
+    "credits": 50,
+    "stripePriceId": ""
+  },
+  {
+    "slug": "pro",
+    "title": "Pro Pack",
+    "price": 22.99,
+    "description": "Perfect for active content creators",
+    "features": [
+      "150 credits (~2.5 hours of content)",
+      "Lifetime Access",
+      "Access to orignal and vertical clip formats",
+      "Download clips anytime"
+    ],
+    "credits": 150,
+    "isPopular": true,
+    "stripePriceId": ""
+  },
+  {
+    "slug": "studio",
+    "title": "Studio Pack",
+    "price": 59.99,
+    "description": "Best value for agencies and production teams",
+    "features": [
+      "500 credits (~8+ hours of content)",
+      "Lifetime Access",
+      "Access to orignal and vertical clip formats",
+      "Download clips anytime"
+    ],
+    "credits": 500,
+    "stripePriceId": ""
+  }
+]
