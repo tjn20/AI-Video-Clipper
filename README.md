@@ -1,5 +1,8 @@
 <h1 align="center">AI Educational Video Clipper</h1>
-
+<img width="1840" height="911" alt="Image" src="https://github.com/user-attachments/assets/5bbc1d70-8303-402c-b8f8-aea8f1bc73ca" />
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/43b83d10-a14e-4242-8012-9bb78c4a0488" />
+<img width="1913" height="910" alt="Image" src="https://github.com/user-attachments/assets/94e42c0b-40ab-4657-a3c5-6c24a93c679d" />
+![Uploading image.png…]()
 ## 🌎 Introduction
 
 This is a SaaS platform that automatically generates short educational clips from uploaded videos—including both podcasts and traditional video formats. Leveraging advanced AI models, the system detects and extracts viral educational moments, supporting a wide range of spoken languages through automatic audio language detection.
