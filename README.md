@@ -38,6 +38,7 @@ The platform produces clips in both vertical (reels-style) and standard formats.
 - Auth.js
 - Stripe
 - Inngest
+- Postgresql
 
 ## ⚖️ Setup & Usage
 
